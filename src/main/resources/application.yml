@@ -1,2 +1,3 @@
 logging.level.org.springframework=info
 spring.jackson.serialization.writes-dates-as-timestamps=false;
+server.port=8081
