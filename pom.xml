@@ -19,10 +19,6 @@
 	</properties>
 
 	<dependencies>
-<<<<<<< HEAD
-		
-=======
->>>>>>> 98d7c7e612e38f65fc253bc324306047187f97c3
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
